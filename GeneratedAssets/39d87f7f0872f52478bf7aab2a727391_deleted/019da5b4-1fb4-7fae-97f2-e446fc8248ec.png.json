@@ -1,0 +1,27 @@
+{
+    "asset": "39d87f7f0872f52478bf7aab2a727391",
+    "fileName": "019da5b4-1fb4-7fae-97f2-e446fc8248ec.png",
+    "prompt": "Create a mobile game icon for \"Best Score\" in 2D flat design style.\r\n\r\nRequirements:\r\n- Size: 128x128 or 256x256 pixels\r\n- Style: flat, minimalist, matches game color scheme\r\n- Elements: gold trophy or star or medal with numbers \"123\"\r\n- Colors: gold, yellow, orange\r\n- Background: TRANSPARENT (no background, PNG format with alpha channel)\r\n- Format: PNG\r\n\r\nDescription: \"Golden trophy flat icon on transparent background, no shadows, vector style, game UI asset\"",
+    "negativePrompt": "",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "9a8964da99d9f5e6d3fcc1a314dbe842",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
